@@ -1,7 +1,7 @@
-# go-testapp
+# Go Timer parser
 Time Parser Testing
 
-First test
+Run Test:
 
 ```
 go test -v errors
