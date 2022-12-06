@@ -1,4 +1,4 @@
-# Go Time parser
+# Time Parser
 Time Parser Testing
 
 Run Test:
